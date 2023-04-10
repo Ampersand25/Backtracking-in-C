@@ -1,0 +1,6 @@
+﻿  Pb16.c
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb16\Pb16.c(10,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb16\Pb16.c(10,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb16\Pb16.c(10,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb16\Pb16.c(10,11): message : this argument is used as a buffer size
+  Pb16.vcxproj -> C:\Users\Admin\Documents\VS Projects\Lab01\Pb16\x64\Debug\Pb16.exe

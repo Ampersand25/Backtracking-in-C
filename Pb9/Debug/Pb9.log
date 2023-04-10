@@ -1,0 +1,3 @@
+﻿  Pb9.c
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb9\Pb9.c(33,43): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+  Pb9.vcxproj -> C:\Users\Admin\Documents\VS Projects\Lab01\Pb9\Debug\Pb9.exe

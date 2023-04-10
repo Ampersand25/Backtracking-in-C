@@ -1,0 +1,3 @@
+﻿  Pb12.c
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb12\Pb12.c(38,6): warning C4013: 'exit' undefined; assuming extern returning int
+  Pb12.vcxproj -> C:\Users\Admin\Documents\VS Projects\Lab01\Pb12\Debug\Pb12.exe

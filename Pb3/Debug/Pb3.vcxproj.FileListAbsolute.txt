@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb3\Debug\Pb3.exe
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb3\Debug\Pb3.pdb

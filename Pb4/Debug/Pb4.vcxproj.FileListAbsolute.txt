@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb4\Debug\Pb4.exe
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb4\Debug\Pb4.pdb

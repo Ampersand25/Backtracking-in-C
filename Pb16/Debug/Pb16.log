@@ -1,0 +1,3 @@
+﻿  Pb16.c
+C:\Users\Admin\Documents\VS Projects\Lab01\Pb16\Pb16.c(81,9): warning C4013: 'exit' undefined; assuming extern returning int
+  Pb16.vcxproj -> C:\Users\Admin\Documents\VS Projects\Lab01\Pb16\Debug\Pb16.exe
